@@ -10,6 +10,7 @@ When I'm not coding, you can find me playing **badminton** or exploring **machin
 - 💻 Languages: Java, Python, JavaScript
 - 🌐 Web Frameworks: React, Node.js, Vue.js
 - 🧠 Interests: Machine Learning, Automation
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About Me
 - 🏢 Consultant at **Fortil**
