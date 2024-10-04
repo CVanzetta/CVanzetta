@@ -10,7 +10,7 @@ When I'm not coding, you can find me playing **badminton** or exploring **machin
 
 | Skills  | Most Used Languages |
 | ------------- | ------------- |
-| - 💻 Languages: Java, Python, JavaScript <br> - 🌐 Web Frameworks: React, Node.js, Vue.js <br> - 🧠 Interests: Machine Learning, Automation | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CVanzetta&hide=twig,php,html,css&layout=compact) |
+| - 💻 Languages: Java, Python, JavaScript <br> - 🌐 Web Frameworks: React, Node.js, Vue.js <br> - 🧠 Interests: Machine Learning, Automation | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CVanzetta&hide=twig,php,html,css&layout=compacttheme=tokyonight) |
 
 ## About Me
 - 🏢 Consultant at **Fortil**
