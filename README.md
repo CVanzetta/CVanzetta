@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello! I'm Charles Vanzetta 👋
 
-<!--
-**CVanzetta/CVanzetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate developer and consultant at Fortil. I have a strong background in **Java**, **Python**, and **JavaScript**, and enjoy working with web technologies such as **React**, **Node.js**, and **Vue.js**.
 
-Here are some ideas to get you started:
+When I'm not coding, you can find me playing **badminton** or exploring **machine learning** projects. I hold a bachelor's degree and love using my skills to solve challenging problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Technologies
+- 💻 Languages: Java, Python, JavaScript
+- 🌐 Web Frameworks: React, Node.js, Vue.js
+- 🧠 Interests: Machine Learning, Automation
+
+## About Me
+- 🏢 Consultant at **Fortil**
+- 🎓 Bachelor’s degree holder
+- 🇫🇷 Based in France
+
+## Find me online
+- [LinkedIn](https://www.linkedin.com/in/charlesvanzetta/)
+- [Twitter](https://twitter.com/charlesvanzetta)
+
+## GitHub Stats
+![Charles' GitHub stats](https://github-readme-stats.vercel.app/api?username=CVanzetta&show_icons=true&theme=dark)
