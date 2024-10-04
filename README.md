@@ -18,6 +18,7 @@ When I'm not coding, you can find me playing **badminton** or exploring **machin
 
 ## Find me online
 - [LinkedIn](https://www.linkedin.com/in/charles-vanzetta/)
+- [Portfolio]([https://www.linkedin.com/in/charles-vanzetta/](https://cvanzetta.github.io/Portfolio/))
 
 
 ## GitHub Stats
