@@ -1,4 +1,6 @@
-# Hello! I'm Charles Vanzetta 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏼;I'm+Charles!+🏄🏼‍♂️;Nice+to+meet+you!+🙂&center=true&size=30&color=29d2a">
+</h1>
 
 I am a passionate developer and consultant at Fortil.
 
