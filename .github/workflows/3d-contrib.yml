@@ -1,0 +1,26 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule: # Exécute le workflow tous les jours à 1h UTC
+    - cron: "0 1 * * *"
+  workflow_dispatch: # Permet de lancer manuellement
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permet d'écrire dans le dépôt
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name "CVanzetta"
+          git config user.email "charles.vanzetta@gmail.com"
+          git add -A .
+          git commit -m "generated 3D contribution" || echo "No changes to commit"
+          git push
