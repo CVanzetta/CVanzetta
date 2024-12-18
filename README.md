@@ -22,6 +22,10 @@ When I'm not coding, you can find me playing **badminton** or exploring **machin
 ## Find me online
 - [LinkedIn](https://www.linkedin.com/in/charles-vanzetta/)
 - [Portfolio](https://cvanzetta.github.io/Portfolio/)
-
 ## GitHub Stats
+
 ![Charles' GitHub stats](https://github-readme-stats.vercel.app/api?username=CVanzetta&show_icons=true&theme=tokyonight&hide=contribs)
+
+![3D Contributions](profile-3d-contrib/profile-night-rainbow.svg)
+
+---
