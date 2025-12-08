@@ -16,15 +16,32 @@ When I'm not coding, you can find me playing **badminton** or exploring **machin
 
 ## About Me
 - 🏢 Consultant at **Fortil**
-- 🎓 Bachelor’s degree holder
+- 🎓 Bachelor's degree holder (**Bac+4 CDA**)  
+- 🎓 Currently pursuing a **Bac+5 in Software Architecture & Development**
 - 🇫🇷 Based in France
+
+## What I'm Working On
+
+⚙️ **Playwright-based test automation framework** for a large insurance company  
+Refactoring, POM architecture, fixtures, domain-driven test design.
+
+🧾 **Document verification platform** (Vue 3 + FastAPI + OCR + VLM)  
+Automates the visual and textual validation of generated PDFs to drastically reduce manual testing time.
+
+🤖 **VLM-powered assistants**  
+Exploring how Vision-Language Models can help analyze documents, detect anomalies, and support QA workflows.
+
+📊 **Machine Learning fundamentals**  
+Deepening knowledge in Python, data pipelines, and ML/AI workflows.
 
 ## Find me online
 - [LinkedIn](https://www.linkedin.com/in/charles-vanzetta/)
 - [Portfolio](https://cvanzetta.github.io/Portfolio/)
 ## GitHub Stats
 
-![Charles' GitHub stats](https://github-readme-stats.vercel.app/api?username=CVanzetta&show_icons=true&theme=tokyonight&hide=contribs)
+![Charles' GitHub stats](https://github-readme-stats.vercel.app/api?username=CVanzetta&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CVanzetta&hide=twig,php,html,css&layout=compact&theme=tokyonight)
 
 ![3D Contributions](profile-3d-contrib/profile-night-rainbow.svg)
 
