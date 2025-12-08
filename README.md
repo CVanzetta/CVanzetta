@@ -39,9 +39,9 @@ Deepening knowledge in Python, data pipelines, and ML/AI workflows.
 - [Portfolio](https://cvanzetta.github.io/Portfolio/)
 ## GitHub Stats
 
-![Charles' GitHub stats](https://github-readme-stats.vercel.app/api?username=CVanzetta&show_icons=true&theme=tokyonight)
+![Charles' GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=CVanzetta&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CVanzetta&hide=twig,php,html,css&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CVanzetta&hide=twig,php,html,css&layout=compact&theme=tokyonight)
 
 ![3D Contributions](profile-3d-contrib/profile-night-rainbow.svg)
 
