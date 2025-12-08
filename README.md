@@ -35,8 +35,8 @@ Exploring how Vision-Language Models can help analyze documents, detect anomalie
 Deepening knowledge in Python, data pipelines, and ML/AI workflows.
 
 ## Find me online
-- [LinkedIn](https://www.linkedin.com/in/charles-vanzetta/)
-- [Portfolio](https://cvanzetta.github.io/Portfolio/)
+- <a href="https://www.linkedin.com/in/charles-vanzetta/" target="_blank">LinkedIn</a>
+- <a href="https://cvanzetta.github.io/Portfolio/" target="_blank">Portfolio</a>
 ## GitHub Stats
 
 ![Charles' GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=CVanzetta&show_icons=true&theme=tokyonight)
