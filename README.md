@@ -12,7 +12,7 @@ When I'm not coding, you can find me playing **badminton** or exploring **machin
 
 | Skills  | Most Used Languages |
 | ------------- | ------------- |
-| - 💻 Languages: Java, Python, JavaScript <br> - 🌐 Web Frameworks: React, Node.js, Vue.js <br> - 🧠 Interests: Machine Learning, Automation | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CVanzetta&hide=twig,php,html,css&layout=compact&theme=tokyonight) |
+| - 💻 Languages: Java, Python, JavaScript <br> - 🌐 Web Frameworks: React, Node.js, Vue.js <br> - 🧠 Interests: Machine Learning, Automation | ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CVanzetta&hide=twig,php,html,css&layout=compact&theme=tokyonight) |
 
 ## About Me
 - 🏢 Consultant at **Fortil**
@@ -40,8 +40,6 @@ Deepening knowledge in Python, data pipelines, and ML/AI workflows.
 ## GitHub Stats
 
 ![Charles' GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=CVanzetta&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CVanzetta&hide=twig,php,html,css&layout=compact&theme=tokyonight)
 
 ![3D Contributions](profile-3d-contrib/profile-night-rainbow.svg)
 
