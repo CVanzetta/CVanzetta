@@ -6,7 +6,7 @@ I am a passionate developer and consultant at Fortil.
 
 When I'm not coding, you can find me playing **badminton** or exploring **machine learning** projects. I hold a bachelor's degree and love using my skills to solve challenging problems.
 
-> "✨ Make sexy code that makes you look intelligent. 💻🧠" – Charles Vanzetta
+> " Make sexy code that makes you look intelligent. 💻🧠" – Charles Vanzetta
 
 ## Skills & Technologies and Most Used Languages
 
