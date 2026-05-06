@@ -1,46 +1,73 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏼;I'm+Charles!+🏄🏼‍♂️;Nice+to+meet+you!+😉&center=true&size=30&color=AE87E2">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Automation+•+AI+•+Software+Engineering;I'm+Charles+Vanzetta+👋🏼;Building+intelligent+automation+systems&center=true&size=30&color=AE87E2">
 </h1>
 
-I am a passionate developer and consultant at Fortil.
+I am a developer and automation engineer passionate about AI-powered workflows, scalable testing systems, and modern software architecture.
 
-When I'm not coding, you can find me playing **badminton** or exploring **machine learning** projects. I hold a bachelor's degree and love using my skills to solve challenging problems.
+When I'm not coding, you can find me playing **badminton** or exploring **machine learning** projects.
 
-> " Make sexy code that makes you look intelligent. 💻🧠" – Charles Vanzetta
+> "Build systems that make hard things feel simple." – Charles Vanzetta
 
-## Skills & Technologies and Most Used Languages
+---
 
-| Skills  | Most Used Languages |
-| ------------- | ------------- |
-| - 💻 Languages: Java, Python, JavaScript <br> - 🌐 Web Frameworks: React, Node.js, Vue.js <br> - 🧠 Interests: Machine Learning, Automation | ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CVanzetta&hide=twig,php,html,css&layout=compact&theme=tokyonight) |
+## Skills & Technologies
 
-## About Me
-- 🏢 Consultant at **Fortil**
-- 🎓 Bachelor's degree holder (**Bac+4 CDA**)  
-- 🎓 Currently pursuing a **Bac+5 in Software Architecture & Development**
-- 🇫🇷 Based in France
+- 💻 Languages: Java, Python, TypeScript
+- 🧪 Test Automation: Playwright, CI/CD, ReportPortal
+- 🧠 AI & Data: OCR, VLMs, FastAPI, Machine Learning
+- 🌐 Frontend: Vue 3, React
+- ⚙️ Tools: GitLab, Docker, Jira
 
-## What I'm Working On
+---
 
-⚙️ **Playwright-based test automation framework** for a large insurance company  
-Refactoring, POM architecture, fixtures, domain-driven test design.
+## Most Used Languages
 
-🧾 **Document verification platform** (Vue 3 + FastAPI + OCR + VLM)  
-Automates the visual and textual validation of generated PDFs to drastically reduce manual testing time.
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CVanzetta&hide=twig,php,html,css&layout=compact&theme=tokyonight)
 
-🤖 **VLM-powered assistants**  
-Exploring how Vision-Language Models can help analyze documents, detect anomalies, and support QA workflows.
+---
 
-📊 **Machine Learning fundamentals**  
-Deepening knowledge in Python, data pipelines, and ML/AI workflows.
-
-## Find me online
-- [LinkedIn](https://www.linkedin.com/in/charles-vanzetta/)
-- [Portfolio](https://cvanzetta.github.io/Portfolio/)
-## GitHub Stats
+## GitHub Activity
 
 ![Charles' GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=CVanzetta&show_icons=true&theme=tokyonight)
 
 ![3D Contributions](profile-3d-contrib/profile-night-rainbow.svg)
 
+<a href="https://github.com/git-goods/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/CVanzetta"
+    width="600"
+    height="120"
+  />
+</a>
+
 ---
+
+## About Me
+
+- 🏢 Consultant at **Fortil**
+- 🎓 Bachelor's degree in Application Design & Development
+- 🎓 Currently pursuing a Master's degree in Software Architecture & Development
+- 🇫🇷 Based in France
+
+---
+
+## What I'm Working On
+
+⚙️ **Playwright automation platform** for insurance workflows  
+Building scalable domain-driven automated testing systems.
+
+🧾 **AI-assisted document verification platform**  
+OCR + VLM pipeline for automated validation of generated PDFs.
+
+🤖 **AI-powered QA assistants**  
+Exploring how LLMs and VLMs can improve testing workflows and anomaly detection.
+
+📊 **Machine Learning & AI Engineering**  
+Deepening knowledge in ML workflows, Python ecosystems, and intelligent automation systems.
+
+---
+
+## Find me online
+
+- [LinkedIn](https://www.linkedin.com/in/charles-vanzetta/)
+- [Portfolio](https://cvanzetta.github.io/Portfolio/)
