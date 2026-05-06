@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Automation+•+AI+•+Software+Engineering;I'm+Charles+Vanzetta+👋🏼;Building+intelligent+automation+systems&center=true&size=30&color=AE87E2">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏼;I'm+Charles+Vanzetta+🏄🏼‍♂️;Automation+%26+AI+Engineer&center=true&size=30&color=AE87E2">
 </h1>
 
 I am a developer and automation engineer passionate about AI-powered workflows, scalable testing systems, and modern software architecture.
