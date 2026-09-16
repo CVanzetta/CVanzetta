@@ -6,7 +6,7 @@ I am a developer and automation engineer passionate about AI-powered workflows, 
 
 When I'm not coding, you can find me playing **badminton** or exploring **machine learning** projects.
 
-> "Build systems that make hard things feel simple." – Charles Vanzetta
+> "Build systems that make hard things feel simple."
 
 ---
 
