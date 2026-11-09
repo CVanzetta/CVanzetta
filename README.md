@@ -10,18 +10,16 @@
   Building reliable systems with agentic AI.
 </p>
 
-I am a software engineer focused on **agentic AI, intelligent automation, and software engineering**.
+I'm a software engineer focused on **agentic AI and intelligent automation**.
 
-My work combines AI agents, LLM-powered workflows, and modern development tools to build systems that can reason, interact with tools, and automate complex processes.
-
-I am particularly interested in bringing agentic architectures into real-world engineering workflows, from software testing to document analysis and developer tooling.
+I build AI-driven workflows that connect **LLMs, tools, APIs, and software systems** to automate complex engineering tasks. My work focuses on practical applications of agentic architectures, from test automation to document verification and developer tooling.
 
 ---
 
 ## Skills & Technologies
 
 - **Languages:** Python, TypeScript, Java
-- **Agentic AI:** LLMs, Tool Calling, AI Agents, Multi-Agent Workflows
+- **Agentic AI:** LLMs, AI Agents, Tool Calling, Agent Orchestration
 - **AI & Vision:** VLMs, OCR, Document Understanding
 - **Automation:** Playwright, ReportPortal, CI/CD
 - **Backend & APIs:** FastAPI, REST APIs
@@ -32,21 +30,19 @@ I am particularly interested in bringing agentic architectures into real-world e
 
 ## What I'm Building
 
-### Agentic Test Automation
+### Agentic AI & Intelligent Automation
 
-Developing AI-assisted testing workflows that integrate agents with **Playwright and TypeScript**.
+Designing agent-driven workflows that combine **LLMs, tool orchestration, context management, and software automation**.
 
-The goal is to move beyond traditional scripted automation towards systems capable of interpreting context, interacting with tools, and assisting with test execution, diagnosis, and maintenance.
+My focus is on building reliable, maintainable AI systems that integrate into real-world applications.
+
+### AI-Driven Test Automation
+
+Integrating AI agents with **Playwright and TypeScript** to support test execution, failure analysis, and automated test maintenance.
 
 ### AI-Powered Document Verification
 
-Building document verification workflows using **OCR, vision-language models, and Python APIs** to analyze and validate generated documents.
-
-### Agentic AI Systems
-
-Exploring agent architectures, tool orchestration, context management, and reliable integration of LLMs into software applications.
-
-My focus is on **practical, maintainable agentic systems**, rather than isolated AI demonstrations.
+Developing document analysis and verification workflows using **OCR, vision-language models, and Python APIs**.
 
 ---
 
@@ -68,9 +64,9 @@ My focus is on **practical, maintainable agentic systems**, rather than isolated
 
 ## About Me
 
-- Software Engineer & Automation Engineer at **Fortil**
-- Background in software development and software architecture
-- Focused on **Agentic AI, intelligent automation, and backend engineering**
+- **Software Engineer** at Fortil
+- **Bac+5 graduate from 3iL Ingénieurs** — Software Architecture & Development
+- Interested in **agentic systems, software architecture, and backend engineering**
 - Based in France
 - Outside of software, I enjoy playing badminton.
 
