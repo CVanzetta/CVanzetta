@@ -1,70 +1,85 @@
-# Hi there, I'm Charles! 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Charles+Vanzetta;Software+Engineer;Agentic+AI+%26+Automation&center=true&size=30&color=AE87E2">
+</h1>
 
-### Software Engineer | Automation & Applied AI
+<p align="center">
+  <strong>Software Engineer | Test Automation & Applied AI</strong>
+</p>
 
-I'm a France-based software engineer working on software development, test automation and AI-powered workflows.
+<p align="center">
+  Building reliable systems with agentic AI.
+</p>
 
-I enjoy building reliable systems, solving complex technical problems, and exploring how artificial intelligence can improve real-world applications.
+I am a software engineer focused on **agentic AI, intelligent automation, and software engineering**.
 
-Outside of coding, you'll probably find me playing badminton 🏸.
+My work combines AI agents, LLM-powered workflows, and modern development tools to build systems that can reason, interact with tools, and automate complex processes.
 
----
-
-## 🛠️ Tech Stack
-
-| Area | Technologies |
-|------|--------------|
-| **Languages** | Java, TypeScript, Python |
-| **Automation & QA** | Playwright, ReportPortal, End-to-End Testing |
-| **Backend & APIs** | Java, FastAPI, REST APIs |
-| **AI & Computer Vision** | LLMs, VLMs, OCR, AI Agents |
-| **Frontend** | Vue.js, React |
-| **DevOps & Tools** | GitLab CI/CD, Docker, Git, Jira |
+I am particularly interested in bringing agentic architectures into real-world engineering workflows, from software testing to document analysis and developer tooling.
 
 ---
 
-## 🚀 What I'm Working On
+## Skills & Technologies
 
-### 🧪 Test Automation Engineering
-Designing and maintaining automated testing solutions for insurance applications using **Playwright, TypeScript and CI/CD pipelines**.
-
-My focus is on test reliability, maintainability, reporting and scalable test execution.
-
-### 🧠 AI-Powered Document Verification
-Exploring document validation workflows combining **OCR, vision-language models and Python APIs**.
-
-### 🤖 Agentic AI & Intelligent Automation
-Experimenting with **LLMs, tool-using agents and AI-assisted development workflows** to solve practical engineering problems.
+- **Languages:** Python, TypeScript, Java
+- **Agentic AI:** LLMs, Tool Calling, AI Agents, Multi-Agent Workflows
+- **AI & Vision:** VLMs, OCR, Document Understanding
+- **Automation:** Playwright, ReportPortal, CI/CD
+- **Backend & APIs:** FastAPI, REST APIs
+- **Frontend:** Vue 3, React
+- **Tools:** GitLab, Docker, Git, Jira
 
 ---
 
-## 📌 Featured Projects
+## What I'm Building
 
-### [PDF Verifier](https://github.com/CVanzetta/pdf-verifier)
-Document verification and automation experiments.
+### Agentic Test Automation
 
-### [AlgoVisualizer](https://github.com/CVanzetta/AlgoVisualizer)
-Algorithm visualization project built with Java.
+Developing AI-assisted testing workflows that integrate agents with **Playwright and TypeScript**.
 
-### [Chess Bot](https://github.com/CVanzetta/chess-bot)
-Chess bot project developed with Python.
+The goal is to move beyond traditional scripted automation towards systems capable of interpreting context, interacting with tools, and assisting with test execution, diagnosis, and maintenance.
 
----
+### AI-Powered Document Verification
 
-## 👨‍💻 About Me
+Building document verification workflows using **OCR, vision-language models, and Python APIs** to analyze and validate generated documents.
 
-- 💼 Software Engineer & Automation Engineer at **Fortil**
-- 🎓 Background in software development and software architecture
-- 🔍 Interested in backend engineering, intelligent automation and agentic AI
-- 🇫🇷 Based in France
+### Agentic AI Systems
+
+Exploring agent architectures, tool orchestration, context management, and reliable integration of LLMs into software applications.
+
+My focus is on **practical, maintainable agentic systems**, rather than isolated AI demonstrations.
 
 ---
 
-## 🔗 Connect With Me
+## Selected Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-vanzetta/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-AE87E2?style=flat&logo=githubpages&logoColor=white)](https://cvanzetta.github.io/Portfolio/)
+- **[PDF Verifier](https://github.com/CVanzetta/pdf-verifier)** — Document verification and automation.
+- **[AlgoVisualizer](https://github.com/CVanzetta/AlgoVisualizer)** — Algorithm visualization in Java.
+- **[Chess Bot](https://github.com/CVanzetta/chess-bot)** — Python chess bot.
 
 ---
 
-> Build useful things. Keep learning. Improve continuously.
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CVanzetta&show_icons=true&theme=tokyonight" alt="GitHub stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CVanzetta&hide=twig,php,html,css&layout=compact&theme=tokyonight" alt="Most used languages">
+</p>
+
+---
+
+## About Me
+
+- Software Engineer & Automation Engineer at **Fortil**
+- Background in software development and software architecture
+- Focused on **Agentic AI, intelligent automation, and backend engineering**
+- Based in France
+- Outside of software, I enjoy playing badminton.
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/charles-vanzetta/) · [Portfolio](https://cvanzetta.github.io/Portfolio/)
