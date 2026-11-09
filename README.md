@@ -1,73 +1,70 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏼;I'm+Charles+Vanzetta+🏄🏼‍♂️;Automation+%26+AI+Engineer&center=true&size=30&color=AE87E2">
-</h1>
+# Hi there, I'm Charles! 👋
 
-I am a developer and automation engineer passionate about AI-powered workflows, scalable testing systems, and modern software architecture.
+### Software Engineer | Automation & Applied AI
 
-When I'm not coding, you can find me playing **badminton** or exploring **machine learning** projects.
+I'm a France-based software engineer working on software development, test automation and AI-powered workflows.
 
-> "Build systems that make hard things feel simple."
+I enjoy building reliable systems, solving complex technical problems, and exploring how artificial intelligence can improve real-world applications.
 
----
-
-## Skills & Technologies
-
-- 💻 Languages: Java, Python, TypeScript
-- 🧪 Test Automation: Playwright, CI/CD, ReportPortal
-- 🧠 AI & Data: OCR, VLMs, FastAPI, Machine Learning
-- 🌐 Frontend: Vue 3, React
-- ⚙️ Tools: GitLab, Docker, Jira
+Outside of coding, you'll probably find me playing badminton 🏸.
 
 ---
 
-## Most Used Languages
+## 🛠️ Tech Stack
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CVanzetta&hide=twig,php,html,css&layout=compact&theme=tokyonight)
-
----
-
-## GitHub Activity
-
-![Charles' GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=CVanzetta&show_icons=true&theme=tokyonight)
-
-![3D Contributions](profile-3d-contrib/profile-night-rainbow.svg)
-
-<a href="https://github.com/git-goods/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/CVanzetta"
-    width="600"
-    height="120"
-  />
-</a>
+| Area | Technologies |
+|------|--------------|
+| **Languages** | Java, TypeScript, Python |
+| **Automation & QA** | Playwright, ReportPortal, End-to-End Testing |
+| **Backend & APIs** | Java, FastAPI, REST APIs |
+| **AI & Computer Vision** | LLMs, VLMs, OCR, AI Agents |
+| **Frontend** | Vue.js, React |
+| **DevOps & Tools** | GitLab CI/CD, Docker, Git, Jira |
 
 ---
 
-## About Me
+## 🚀 What I'm Working On
 
-- 🏢 Consultant at **Fortil**
-- 🎓 Bachelor's degree in Application Design & Development
-- 🎓 Currently pursuing a Master's degree in Software Architecture & Development
+### 🧪 Test Automation Engineering
+Designing and maintaining automated testing solutions for insurance applications using **Playwright, TypeScript and CI/CD pipelines**.
+
+My focus is on test reliability, maintainability, reporting and scalable test execution.
+
+### 🧠 AI-Powered Document Verification
+Exploring document validation workflows combining **OCR, vision-language models and Python APIs**.
+
+### 🤖 Agentic AI & Intelligent Automation
+Experimenting with **LLMs, tool-using agents and AI-assisted development workflows** to solve practical engineering problems.
+
+---
+
+## 📌 Featured Projects
+
+### [PDF Verifier](https://github.com/CVanzetta/pdf-verifier)
+Document verification and automation experiments.
+
+### [AlgoVisualizer](https://github.com/CVanzetta/AlgoVisualizer)
+Algorithm visualization project built with Java.
+
+### [Chess Bot](https://github.com/CVanzetta/chess-bot)
+Chess bot project developed with Python.
+
+---
+
+## 👨‍💻 About Me
+
+- 💼 Software Engineer & Automation Engineer at **Fortil**
+- 🎓 Background in software development and software architecture
+- 🔍 Interested in backend engineering, intelligent automation and agentic AI
 - 🇫🇷 Based in France
 
 ---
 
-## What I'm Working On
+## 🔗 Connect With Me
 
-⚙️ **Playwright automation platform** for insurance workflows  
-Building scalable domain-driven automated testing systems.
-
-🧾 **AI-assisted document verification platform**  
-OCR + VLM pipeline for automated validation of generated PDFs.
-
-🤖 **AI-powered QA assistants**  
-Exploring how LLMs and VLMs can improve testing workflows and anomaly detection.
-
-📊 **Machine Learning & AI Engineering**  
-Deepening knowledge in ML workflows, Python ecosystems, and intelligent automation systems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-vanzetta/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-AE87E2?style=flat&logo=githubpages&logoColor=white)](https://cvanzetta.github.io/Portfolio/)
 
 ---
 
-## Find me online
-
-- [LinkedIn](https://www.linkedin.com/in/charles-vanzetta/)
-- [Portfolio](https://cvanzetta.github.io/Portfolio/)
+> Build useful things. Keep learning. Improve continuously.
