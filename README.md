@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I'm+Charles+Vanzetta;Software+Engineer;Agentic+AI+%26+Automation&center=true&size=30&color=AE87E2">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏼;I'm+Charles+Vanzetta+🏄🏼‍♂️;Automation+%26+AI+Engineer&center=true&size=30&color=AE87E2">
 </h1>
 
 <p align="center">
@@ -62,10 +62,6 @@ My focus is on **practical, maintainable agentic systems**, rather than isolated
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CVanzetta&show_icons=true&theme=tokyonight" alt="GitHub stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CVanzetta&hide=twig,php,html,css&layout=compact&theme=tokyonight" alt="Most used languages">
 </p>
 
 ---
